@@ -7,7 +7,9 @@ $ ./main_2
 ### Input
 Text can either be entered, or be saved in input.txt. 
 
-##### This is an example of predicting text typed directly into the program
+#### This is an example of predicting text typed directly into the program
 ![capture](https://user-images.githubusercontent.com/32224617/49131281-3e12b200-f29d-11e8-9174-316a98255db5.PNG)
 
-##### This is an example of predicting text saved in input.txt
+#### To predict text saved in input.txt, simple press enter when program prompts for input
+
+#### User can also set the threshold of difference to get a more accurate prediction, if user presses enter, threshold defaults to 4
